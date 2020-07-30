@@ -1,18 +1,47 @@
 ### Hi there, I'm Mohamed Hafez a Front End Developer.
 
 
-### Languages and Tools:
+### **What I Know :**
+#### Languages
+<table>
+<tr>
+  <th> Main Languages </th>
+  <th> Familiar with </th>
+</tr>
+<tr>
+  <td>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    &nbsp;&nbsp;&nbsp;
+  </td>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <td>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  </td>
+</tr>
+</table>
 
-<br />
-<br />
+#### Libraries
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/redux.png"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/sass.png"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
+
+#### Tools
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;
+  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/npm.png"/>&nbsp;
+  <img width="48px" src="https://img.icons8.com/dusk/64/000000/webpack.png"/>&nbsp;
+  <img width="100px" src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg"/>&nbsp;
+  <img width="54px" src="https://parceljs.org/assets/parcel.png">&nbsp;
+  <img alt="VS Code" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/64px-Visual_Studio_Code_1.35_icon.svg.png">&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>&nbsp;
+  <img alt="Command line" src="https://img.icons8.com/fluent/48/000000/console.png"/>
+
+
+  
 ---

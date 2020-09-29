@@ -42,6 +42,8 @@
   <img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>&nbsp;
   <img alt="Command line" src="https://img.icons8.com/fluent/48/000000/console.png"/>
 
+#### OS
+  <img alt="Linux-Manjaro" src="https://manjaro.org/img/logo.svg" width="80px"/>&nbsp;
+  <img alt="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/250px-Windows_10_Logo.svg.png" width="80px" />&nbsp;
 
-  
 ---

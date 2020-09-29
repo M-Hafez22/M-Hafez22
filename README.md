@@ -44,6 +44,6 @@
 
 #### OS
   <img alt="Linux-Manjaro" src="https://manjaro.org/img/logo.svg" width="80px"/>&nbsp;
-  <img alt="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/250px-Windows_10_Logo.svg.png" width="80px" />&nbsp;
+  <img alt="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg/800px-Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg.png" width="80px" />&nbsp;
 
 ---

@@ -1,8 +1,18 @@
 ### Hi there,
 
- I’m a hard-working and dedicated professional front-end developer with a keen eye for detail, and a determination to deliver the very highest quality and best user experience for the End-user regardless of the platform they use. I always try to better myself with every project I work on.
+>  I’m a hard-working and dedicated professional front-end developer with a keen eye for detail, and a determination to deliver the very highest quality and best user experience for the End-user regardless of the platform they use. I always try to better myself with every project I work on.
 
 ### **What I Know :**
+
+- [Languages](#languages)
+- [Libraries](#libraries)
+- [Tools](#tools)
+- [Text Editors](#text-editors-i-use)
+- [Clone](#clone)
+- [Technologies](#technologies)
+- [Inspiration](#inspiration)
+- [License](#license)
+---
 #### Languages
 ##### Main Languages:
   - **HTML5**
@@ -18,8 +28,6 @@
 #### Libraries
 - React
 - Redux
-- Bootstrap (basics)
-- jQuery (basics)
 
 
 #### Tools
@@ -28,9 +36,11 @@
   - Parcel
   - Webpack
   - Babel
+  - jest
+  - Enzyme
   - Figma (familiar with)
 
-### Text Editors I use:
+### Text Editors I use
   - VS Code
   - Sublime-text
   - Atom
@@ -44,5 +54,7 @@
   - Linux (Arch, Fedora)
 
 ---
-
-### if you want to build a greate  
+> If you want to build something great you can reach me by
+Email: mohamedhafezmansour@gmail.com
+LinkedIn: http://www.linkedin.com/in/m-hafez22
+Phone: +20 1151018296

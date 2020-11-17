@@ -37,7 +37,7 @@
   - Enzyme
   - Figma (familiar with)
 
-### Text Editors I use
+#### Text Editors I use
   - VS Code
   - Sublime-text
   - Atom

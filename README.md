@@ -54,7 +54,7 @@
   - Linux (Arch, Fedora)
 
 ---
-> If you want to build something great you can reach me by
-Email: mohamedhafezmansour@gmail.com
-LinkedIn: http://www.linkedin.com/in/m-hafez22
-Phone: +20 1151018296
+*If you want to build something great you can reach me by*
+- **Email**: mohamedhafezmansour@gmail.com
+- **LinkedIn**: http://www.linkedin.com/in/m-hafez22
+- **Phone**: +20 1151018296

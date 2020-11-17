@@ -8,10 +8,7 @@
 - [Libraries](#libraries)
 - [Tools](#tools)
 - [Text Editors](#text-editors-i-use)
-- [Clone](#clone)
-- [Technologies](#technologies)
-- [Inspiration](#inspiration)
-- [License](#license)
+
 ---
 #### Languages
 ##### Main Languages:
@@ -45,15 +42,14 @@
   - Sublime-text
   - Atom
 
-### projects host
-- GitHub
-- CodePen
-
 #### OS
   - Windows
   - Linux (Arch, Fedora)
 
 ---
+
+> For more projects check out my [CodePen](https://codepen.io/M-Hafez).
+
 *If you want to build something great you can reach me by*
 - **Email**: mohamedhafezmansour@gmail.com
 - **LinkedIn**: http://www.linkedin.com/in/m-hafez22

@@ -46,6 +46,9 @@
   - Windows
   - Linux (Arch, Fedora)
 
+#### I can Speak in  
+- Arabic (Native)
+- English (Full Professional) 
 ---
 
 > For more projects check out my [CodePen](https://codepen.io/M-Hafez).

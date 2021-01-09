@@ -20,7 +20,7 @@
 ##### Familiar with:
   - **Bash**
   - **Python**
-  - **C**
+  - **C** (Just CS50x course)
 
 #### Libraries
 - React

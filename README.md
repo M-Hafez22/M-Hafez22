@@ -19,7 +19,7 @@
 
 ##### Familiar with:
   - **Bash**
-  - **Python**
+  - **Python** (CS50x and another crash course)
   - **C** (Just CS50x course)
 
 #### Libraries

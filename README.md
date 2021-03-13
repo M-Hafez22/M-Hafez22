@@ -38,7 +38,8 @@ Also Familiar with:
 - **Ajax**
 - **Testing** 
   - **jest** with **RTL**
-
+- *Documenting Code*
+  - **JSDoc**
 
 #### Tools & Software
 <table>

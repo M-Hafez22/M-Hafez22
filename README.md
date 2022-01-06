@@ -11,9 +11,8 @@ If you want to build something great you can reach me by
 ---
 
 - [Languages](#languages)
-- [Libraries & Tech](#libraries-&-tech)
-- [Tools & Software](#tools-&-software)
-- [Text Editors](#text-editors-i-use)
+- [Libraries I use](#libraries-i-use)
+- [Software I use](#software-i-use)
 
 ---
 
@@ -31,7 +30,7 @@ Also Familiar with:
 - **Marckdown**
 - **JSON**
 
-### Libraries & Tech
+### Libraries I use
 
 - *Styling*
   - **Sass**
@@ -45,7 +44,7 @@ Also Familiar with:
 - *Documenting Code*
   - **JSDoc**
 
-### Tools & Software
+### Software I use
 
 - OS
   - Debian

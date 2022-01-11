@@ -52,6 +52,10 @@ Also Familiar with:
 - Text Editors
   - VSCode
   - Sublime-text
+- Graphic Design Tools
+  - Figma
+  - Adobe Photoshop
+  - Adobe Illustrator
 
 #### I can Speak in
 

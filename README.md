@@ -46,6 +46,24 @@ If you want to build something great you can reach me by
 [![PhotoShop](https://img.shields.io/badge/-PhotoShop-333?&logo=AdobePhotoShop)](https://www.adobe.com/products/photoshop.html)
 [![illustrator](https://img.shields.io/badge/-illustrator-333?&logo=Adobeillustrator)](https://www.adobe.com/mena_en/products/illustrator.html)
 
+---
+
+## &#x1f4c8; GitHub Stats
+
+![Mohamed Hafez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-hafez22&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&title_color=0797fa&text_color=c9cacc&icon_color=0094bd&bg_color=061621)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hafez22&theme=tokyonight&title_color=0797fa&text_color=0094bd&icon_color=00ffff&bg_color=061621&layout=compact&hide=&langs_count=10)](https://github.com/m-hafez22/github-readme-stats)
+
+[![islamic-prayer-times-vue](https://github-readme-stats.vercel.app/api/pin/?username=m-hafez22&repo=islamic-prayer-times-vue&title_color=0797fa&text_color=c9cacc&icon_color=00ffff&bg_color=061621)](https://github.com/m-hafez22/islamic-prayer-times-vue)
+
+[![Javascript-the-Good-Parts-notes](https://github-readme-stats.vercel.app/api/pin/?username=m-hafez22&repo=Javascript-the-Good-Parts-notes&title_color=0797fa&text_color=c9cacc&icon_color=00ffff&bg_color=061621)](https://github.com/m-hafez22/Javascript-the-Good-Parts-notes)
+
+[![Python_Crash_Course-Notes](https://github-readme-stats.vercel.app/api/pin/?username=m-hafez22&repo=Python_Crash_Course-Notes&title_color=0797fa&text_color=c9cacc&icon_color=00ffff&bg_color=061621)](https://github.com/m-hafez22/Python_Crash_Course-Notes)
+
+[![cs50x-clone](https://github-readme-stats.vercel.app/api/pin/?username=m-hafez22&repo=cs50x-clone&title_color=0797fa&text_color=c9cacc&icon_color=00ffff&bg_color=061621)](https://github.com/m-hafez22/cs50x-clone)
+
+[![Prayer_Times](https://github-readme-stats.vercel.app/api/pin/?username=m-hafez22&repo=Prayer_Times&title_color=0797fa&text_color=c9cacc&icon_color=00ffff&bg_color=061621)](https://github.com/m-hafez22/Prayer_Times)
+
+---
+
 ### Software I use
 
 - OS

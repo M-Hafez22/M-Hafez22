@@ -50,7 +50,7 @@ If you want to build something great you can reach me by
 
 ## &#x1f4c8; GitHub Stats
 
-![Mohamed Hafez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-hafez22&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&title_color=0797fa&text_color=c9cacc&icon_color=0094bd&bg_color=061621)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hafez22&theme=tokyonight&title_color=0797fa&text_color=0094bd&icon_color=00ffff&bg_color=061621&layout=compact&hide=&langs_count=10)](https://github.com/m-hafez22/github-readme-stats)
+![Mohamed Hafez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-hafez22&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&title_color=0797fa&text_color=c9cacc&icon_color=0094bd&bg_color=061621)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hafez22&theme=tokyonight&title_color=0797fa&text_color=0094bd&icon_color=00ffff&bg_color=061621&layout=compact&hide=&langs_count=10)](https://github.com/m-hafez22/github-readme-stats)
 
 [![islamic-prayer-times-vue](https://github-readme-stats.vercel.app/api/pin/?username=m-hafez22&repo=islamic-prayer-times-vue&title_color=0797fa&text_color=c9cacc&icon_color=00ffff&bg_color=061621)](https://github.com/m-hafez22/islamic-prayer-times-vue)
 

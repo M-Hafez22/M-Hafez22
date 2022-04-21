@@ -72,9 +72,6 @@ OSs I love:
 [![MXLinux](https://img.shields.io/badge/-MXLinux-333?&logo=MXLinux)](https://mxlinux.org/)
 [![FreeBSD](https://img.shields.io/badge/-FreeBSD-333?&logo=FreeBSD)](https://www.freebsd.org/)
 
-#### I can Speak in
-
-- Arabic (Native)
-- English (Full Professional)
-
 ---
+
+I can Speak in **Arabic** (Native) and **English** (Full Professional)

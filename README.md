@@ -1,12 +1,11 @@
-# Hi there
+# Hi there 👋
 
-> I'm a Developer who loves to face challenges and solving problems with JavaScript.
-
+I'm a Developer who loves to face challenges and solving problems with JavaScript.
 If you want to build something great you can reach me by
 
-- **Email**: mohamedhafezmansour@gmail.com
-- **LinkedIn**: <http://www.linkedin.com/in/m-hafez22>
-- **Phone**: +20 1151018296
+[![Gmail](https://img.shields.io/badge/-mohamedhafezmansour@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mohamedhafezmansour@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Mohamed_Hafez-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/M-Hafez22/)
+[![whatsapp](https://img.shields.io/badge/-+201151018296-1c784a?style=for-the-badge&logoColor=white&logo=whatsapp)](https://wa.me/+201151018296)
 
 ---
 

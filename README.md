@@ -56,18 +56,13 @@ If you want to build something great you can reach me by
 
 ---
 
-### Software I use
+## Software I use to get stuff done
 
-- OS
-  - Debian
-  - Windows
-- Text Editors
-  - VSCode
-  - Sublime-text
-- Graphic Design Tools
-  - Figma
-  - Adobe Photoshop
-  - Adobe Illustrator
+- **OS**: &nbsp;[![Fedora](https://img.shields.io/badge/-Fedora-333?&logo=Fedora)](https://getfedora.org/)
+- **Browser**: Firefox Web Browser, Google Chrome.
+- **Terminal**: ZSH: [Oh My Zsh](https://ohmyz.sh/) ([PowerLevel10k](https://github.com/romkatv/powerlevel10k))
+- **Code Editor**: ![VSCode](https://img.shields.io/badge/-VSCode-333?&logo=VisualStudioCode)&nbsp; ![Sublime_Text3](https://img.shields.io/badge/-Sublime_Text3-333?&logo=Sublime-Text)
+
 
 #### I can Speak in
 

@@ -11,7 +11,6 @@ If you want to build something great you can reach me by
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 🌱 &nbsp; I’m currently learning **[Docker](https://www.docker.com/)**.
 - 👨🏻‍💻 &nbsp; My projects are on  [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/M-Hafez22),  Linux tools on  [![GitLab](https://img.shields.io/badge/-GitLab-330F63?&logo=GitLab)](https://gitlab.com/M-Hafez22) and CSS on  [![CodePen](https://img.shields.io/badge/-CodePen-222?&logo=CodePen)](https://codepen.io/M-Hafez)
 - 💬 &nbsp; Ask me about anything about [![Linux](https://img.shields.io/badge/-Linux-111?&logo=Linux&logoColor=fff)](https://distrowatch.com/dwres.php?resource=popularity) Distros, I am happy to help.
 
@@ -34,6 +33,7 @@ If you want to build something great you can reach me by
 [![Vuex](https://img.shields.io/badge/-Vuex-333?&logo=Vuex)](https://vuex.vuejs.org/)
 [![Pinia](https://img.shields.io/badge/-Pinia-333?&logo=VuePinia)](https://pinia.vuejs.org/)
 
+[![Docker](https://img.shields.io/badge/-Docker-333?&logo=Docker)](https://Docker-lang.com/)
 [![Sass](https://img.shields.io/badge/-Sass-333?&logo=Sass)](https://sass-lang.com/)
 [![JSON](https://img.shields.io/badge/-JSON-333?&logo=JSON)](https://www.json.org/json-en.html)
 [![jest](https://img.shields.io/badge/-jest-333?&logo=jest)](https://jestjs.io/)

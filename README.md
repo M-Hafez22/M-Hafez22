@@ -28,7 +28,7 @@ If you want to build something great you can reach me by
 [![Redux](https://img.shields.io/badge/-Redux-333?&logo=Redux)](https://github.com/M-Hafez22/To-Do-App)
 [![React Router](https://img.shields.io/badge/-React_Router-333?&logo=ReactRouter)](https://github.com/M-Hafez22/cs50x-concept)
 [![React_Hooks](https://img.shields.io/badge/-React_Hooks-333?&logo=React-Hooks)](https://github.com/M-Hafez22/islamic-prayer-times-vue)
-[![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-333?&logo=)](https://testing-library.com/docs/react-testing-library/intro/)
+[![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-333?&logo=React-Testing-Library)](https://testing-library.com/docs/react-testing-library/intro/)
 [![React Query](https://img.shields.io/badge/-React_Query-333?&logo=React-query)](https://github.com/M-Hafez22/trivia-questions-game)
 
 [![Vue](https://img.shields.io/badge/-Vue-333?&logo=vue.js)]()

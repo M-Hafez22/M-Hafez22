@@ -22,7 +22,7 @@ If you want to build something great you can reach me by
 [![css](https://img.shields.io/badge/-CSS-333?&logo=CSS3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-333?&logo=JavaScript)](https://www.javascript.com/)
 [![MarkDown](https://img.shields.io/badge/-MarkDown-333?&logo=MarkDown)](https://www.markdownguide.org/)
-[![Python](https://img.shields.io/badge/-Python-333?&logo=Python)](https://www.python.org/)
+([![Python](https://img.shields.io/badge/-Python-333?&logo=Python)](https://www.python.org/) Basics)
 
 [![React](https://img.shields.io/badge/-React-333?&logo=React)](https://github.com/M-Hafez22/islamic-prayer-times)
 [![Redux](https://img.shields.io/badge/-Redux-333?&logo=Redux)](https://github.com/M-Hafez22/To-Do-App)

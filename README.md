@@ -43,6 +43,7 @@ If you want to build something great you can reach me by
 [![JSON](https://img.shields.io/badge/-JSON-333?&logo=JSON)](https://www.json.org/json-en.html)
 [![jest](https://img.shields.io/badge/-jest-333?&logo=jest)](https://jestjs.io/)
 [![JSDoc](https://img.shields.io/badge/-JSDoc-333?&logo=JSDoc)](https://jsdoc.app/)
+[![Vite](https://img.shields.io/badge/-Vite-333?&logo=vite)](https://github.com/M-Hafez22/dynamic-form-vue)
 [![WebPack](https://img.shields.io/badge/-WebPack-333?&logo=WebPack)](https://webpack.js.org/)
 [![Parcel](https://img.shields.io/badge/-Parcel-333?&logo=Parcel)](https://parceljs.org/)
 

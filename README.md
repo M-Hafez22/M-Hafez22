@@ -7,6 +7,9 @@ If you want to build something great you can reach me by
 [![Linkedin](https://img.shields.io/badge/-Mohamed_Hafez-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/M-Hafez22/)
 [![whatsapp](https://img.shields.io/badge/-+201151018296-1c784a?style=for-the-badge&logoColor=white&logo=whatsapp)](https://wa.me/+201151018296)
 
+[![gitlab](https://img.shields.io/badge/-Mohamed_Hafez-800080?style=for-the-badge&logoColor=white&logo=gitlab)](https://gitlab.com/M-Hafez22)
+[![codepen](https://img.shields.io/badge/-Mohamed_Hafez-111?style=for-the-badge&logoColor=white&logo=codepen)](https://codepen.io/M-Hafez)
+
 ---
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎

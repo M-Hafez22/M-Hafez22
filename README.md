@@ -27,12 +27,12 @@ If you want to build something great you can reach me by
 [![MarkDown](https://img.shields.io/badge/-MarkDown-333?&logo=MarkDown)](https://www.markdownguide.org/)
 ([![Python](https://img.shields.io/badge/-Python-333?&logo=Python)](https://www.python.org/) Basics)
 
-[![React](https://img.shields.io/badge/-React-333?&logo=React)](https://github.com/M-Hafez22/islamic-prayer-times)
-[![Redux](https://img.shields.io/badge/-Redux-333?&logo=Redux)](https://github.com/M-Hafez22/To-Do-App)
-[![React Router](https://img.shields.io/badge/-React_Router-333?&logo=ReactRouter)](https://github.com/M-Hafez22/cs50x-concept)
-[![React_Hooks](https://img.shields.io/badge/-React_Hooks-333?&logo=React-Hooks)](https://github.com/M-Hafez22/islamic-prayer-times-vue)
-[![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-333?&logo=React-Testing-Library)](https://testing-library.com/docs/react-testing-library/intro/)
-[![React Query](https://img.shields.io/badge/-React_Query-333?&logo=React-query)](https://github.com/M-Hafez22/trivia-questions-game)
+[![React](https://img.shields.io/badge/-React-005266?&logo=React)](https://github.com/M-Hafez22/islamic-prayer-times)
+[![Redux](https://img.shields.io/badge/-Redux-005266?&logo=Redux)](https://github.com/M-Hafez22/To-Do-App)
+[![React Router](https://img.shields.io/badge/-React_Router-005266?&logo=ReactRouter)](https://github.com/M-Hafez22/cs50x-concept)
+[![React_Hooks](https://img.shields.io/badge/-React_Hooks-005266?&logo=React-Hooks)](https://github.com/M-Hafez22/islamic-prayer-times-vue)
+[![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-005266?&logo=React-Testing-Library)](https://testing-library.com/docs/react-testing-library/intro/)
+[![React Query](https://img.shields.io/badge/-React_Query-005266?&logo=React-query)](https://github.com/M-Hafez22/trivia-questions-game)
 
 [![Vue](https://img.shields.io/badge/-Vue-333?&logo=vue.js)]()
 [![Vuex](https://img.shields.io/badge/-Vuex-333?&logo=Vuex)](https://github.com/M-Hafez22/islamic-prayer-times-vue)

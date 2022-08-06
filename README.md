@@ -66,7 +66,7 @@ If you want to build something great you can reach me by
 ## Software I use to get stuff done
 
 - **OS**: &nbsp;[![ArchLinux](https://img.shields.io/badge/-Arch_Linux-333?&logo=ArchLinux)](https://archlinux.org/)
-- **Browsers**:  &nbsp; [![brave](https://img.shields.io/badge/-Brave-333?&logo=brave)]() &nbsp; [![firefox](https://img.shields.io/badge/-firefox-333?&logo=firefox)]()
+- **Browsers**:  &nbsp; [![brave](https://img.shields.io/badge/-Brave-333?&logo=brave)](https://brave.com/) &nbsp; [![firefox](https://img.shields.io/badge/-firefox-333?&logo=firefox)](https://www.mozilla.org/en-US/firefox/new/)
 - **Terminal**: ***ZSH*** with [Oh My Zsh](https://ohmyz.sh/) ([PowerLevel10k](https://github.com/romkatv/powerlevel10k)), ***Bash*** with ([OhMyBash](https://github.com/ohmybash/oh-my-bash))
 - **Code Editor**: ![VSCode](https://img.shields.io/badge/-VSCode-333?&logo=VisualStudioCode)&nbsp; ![Sublime_Text3](https://img.shields.io/badge/-Sublime_Text3-333?&logo=Sublime-Text)
 

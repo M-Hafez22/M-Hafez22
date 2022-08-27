@@ -3,9 +3,9 @@
 I'm a Developer who loves to face challenges and solving problems with JavaScript.
 If you want to build something great you can reach me by
 
-[![Gmail](https://img.shields.io/badge/-mohamedhafezmansour@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mohamedhafezmansour@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Mohamed_Hafez-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/M-Hafez22/)
-[![signal](https://img.shields.io/badge/-+201151018296-3B76F1?style=for-the-badge&logoColor=fff&logo=signal)](https://signal.me/#p/+201151018296)
+[![Gmail](https://img.shields.io/badge/-mohamedhafezmansour@gmail.com-c14438?style=social&logo=Gmail)](mailto:mohamedhafezmansour@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Mohamed_Hafez-blue?style=social&logo=Linkedin)](https://www.linkedin.com/in/M-Hafez22/)
+[![signal](https://img.shields.io/badge/-+201151018296-3B76F1?style=social&logo=signal)](https://signal.me/#p/+201151018296)
 
 [![gitlab](https://img.shields.io/badge/-Mohamed_Hafez-800080?style=for-the-badge&logoColor=white&logo=gitlab)](https://gitlab.com/M-Hafez22)
 [![codepen](https://img.shields.io/badge/-Mohamed_Hafez-111?style=for-the-badge&logoColor=white&logo=codepen)](https://codepen.io/M-Hafez)

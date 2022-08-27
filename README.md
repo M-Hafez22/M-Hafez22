@@ -9,14 +9,14 @@ If you want to build something great you can reach me by
 
 [![gitlab](https://img.shields.io/badge/-Mohamed_Hafez-800080?style=for-the-badge&logoColor=white&logo=gitlab)](https://gitlab.com/M-Hafez22)
 [![codepen](https://img.shields.io/badge/-Mohamed_Hafez-111?style=for-the-badge&logoColor=white&logo=codepen)](https://codepen.io/M-Hafez)
-[![Mozilla Add-on](https://img.shields.io/badge/-Mozilla_Add_on-20123A?style=for-the-badge&logoColor=8ff7f7&logo=firefox)](https://addons.mozilla.org/en-US/firefox/user/15251328/)
+[![Mozilla Add-on](https://img.shields.io/badge/-Mozilla_Add--on-20123A?style=for-the-badge&logoColor=8ff7f7&logo=firefox)](https://addons.mozilla.org/en-US/firefox/user/15251328/)
 [![Docker](https://img.shields.io/badge/-Docker_Profile-2497EC?style=for-the-badge&logoColor=fff&logo=docker)](https://hub.docker.com/u/mohamedhafez)
 
 ---
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 👨🏻‍💻 &nbsp; My Front End projects are on  [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/M-Hafez22?tab=repositories)
+- 👨🏻‍💻 &nbsp; My Front End projects are on  [![GitHub](https://img.shields.io/badge/-GitHub-000?style=social&logo=GitHub)](https://github.com/M-Hafez22?tab=repositories)
 - My Linux tools are on  [![GitLab](https://img.shields.io/badge/-GitLab-330F63?&logo=GitLab)](https://gitlab.com/M-Hafez22)
 - 💬 &nbsp; Ask me about anything about [![Linux](https://img.shields.io/badge/-Linux-111?&logo=Linux&logoColor=fff)](https://distrowatch.com/dwres.php?resource=popularity) Distros, I am happy to help.
 <!-- - CSS on  [![CodePen](https://img.shields.io/badge/-CodePen-222?&logo=CodePen)](https://codepen.io/M-Hafez) -->

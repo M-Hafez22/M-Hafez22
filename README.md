@@ -16,7 +16,7 @@ If you want to build something great you can reach me by
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 👨🏻‍💻 &nbsp; My Front End projects are on  [![GitHub](https://img.shields.io/badge/-GitHub-000?style=social&logo=GitHub)](https://github.com/M-Hafez22?tab=repositories)
+- 👨🏻‍💻 &nbsp; My Front End projects are on  [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)](https://github.com/M-Hafez22?tab=repositories)
 - My Linux tools are on  [![GitLab](https://img.shields.io/badge/-GitLab-330F63?&logo=GitLab)](https://gitlab.com/M-Hafez22)
 - 💬 &nbsp; Ask me about anything about [![Linux](https://img.shields.io/badge/-Linux-111?&logo=Linux&logoColor=fff)](https://distrowatch.com/dwres.php?resource=popularity) Distros, I am happy to help.
 <!-- - CSS on  [![CodePen](https://img.shields.io/badge/-CodePen-222?&logo=CodePen)](https://codepen.io/M-Hafez) -->

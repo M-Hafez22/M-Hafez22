@@ -25,40 +25,42 @@ If you want to build something great you can reach me by
 
 ## 🛠️ Languages and Tools
 
-[![HTML](https://img.shields.io/badge/-HTML-333?&logo=html5)](https://html.com/)
-[![css](https://img.shields.io/badge/-CSS-333?&logo=CSS3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-333?&logo=JavaScript)](https://www.javascript.com/)
-[![MarkDown](https://img.shields.io/badge/-MarkDown-333?&logo=MarkDown)](https://www.markdownguide.org/)
+![HTML](https://img.shields.io/static/v1?labelColor=222&color=F36429&label=%20&message=HTML&logo=HTML5)
+![CSS3](https://img.shields.io/static/v1?labelColor=222&color=2B64F0&logoColor=2B64F0&label=%20&message=CSS3&logo=CSS3)
+[![JavaScript](https://img.shields.io/static/v1?labelColor=222&color=F7E01D&label=%20&message=JavaScript&logo=JavaScript)](https://github.com/M-Hafez22/Analog_clock)
+[![MarkDown](https://img.shields.io/static/v1?labelColor=222&color=445A64&label=%20&message=MarkDown&logo=MarkDown)](https://github.com/M-Hafez22/Javascript-the-Good-Parts-notes)
 
-[![React](https://img.shields.io/badge/-React-20232A?&logo=React)](https://github.com/M-Hafez22/islamic-prayer-times)
-[![Redux](https://img.shields.io/badge/-Redux-20232A?&logo=Redux)](https://github.com/M-Hafez22/To-Do-App)
-[![React Router](https://img.shields.io/badge/-React_Router-20232A?&logo=ReactRouter)](https://github.com/M-Hafez22/cs50x-concept)
-[![React_Hooks](https://img.shields.io/badge/-React_Hooks-20232A?&logo=React-Hooks)](https://github.com/M-Hafez22/islamic-prayer-times-vue)
-[![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-20232A?&logo=Testing-Library)](https://testing-library.com/docs/react-testing-library/intro/)
-[![React Query](https://img.shields.io/badge/-React_Query-20232A?&logo=React-query)](https://github.com/M-Hafez22/trivia-questions-game)
+[![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=222&color=1182c3&label=%20)](https://github.com/M-Hafez22/islamic-prayer-times)
+[![Redux](https://img.shields.io/static/v1?message=Redux&labelColor=222&color=1182c3&label=%20&logo=Redux)](https://github.com/M-Hafez22/To-Do-App)
+[![React Router](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-Router&logo=ReactRouter)](https://github.com/M-Hafez22/cs50x-concept)
+![React_Hooks](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-Hooks&logo=React)
+![React Testing Library](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=Testing-Library&logo=Testing-Library)
+![React-query](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-query&logo=React-query)
 
-[![Vue](https://img.shields.io/badge/-Vue-32495C?&logo=vue.js)]()
-[![Vuex](https://img.shields.io/badge/-Vuex-32495C?&logo=Vuex)](https://github.com/M-Hafez22/islamic-prayer-times-vue)
-[![Pinia](https://img.shields.io/badge/-Pinia-32495C?&logo=VuePinia)](https://github.com/M-Hafez22/dynamic-form-vue)
+![Vue](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=vue&logo=vue.js)
+[![Vuex](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=Vuex&logo=Vue.js)](https://github.com/M-Hafez22/islamic-prayer-times-vue)
+[![Pinia](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=pinia&logo=vue.js)](https://github.com/M-Hafez22/dynamic-form-vue)
 
-[![Docker](https://img.shields.io/badge/-Docker-333?&logo=Docker)](https://hub.docker.com/u/mohamedhafez)
-[![Sass](https://img.shields.io/badge/-Sass-333?&logo=Sass)](https://sass-lang.com/)
-[![JSON](https://img.shields.io/badge/-JSON-333?&logo=JSON)](https://www.json.org/json-en.html)
-[![jest](https://img.shields.io/badge/-jest-333?&logo=jest)](https://jestjs.io/)
-[![JSDoc](https://img.shields.io/badge/-JSDoc-333?&logo=JSDoc)](https://jsdoc.app/)
+[![Docker](https://img.shields.io/static/v1?labelColor=222&color=2599EE&label=%20&message=Docker&logo=Docker)](https://hub.docker.com/u/mohamedhafez)
+![Sass](https://img.shields.io/static/v1?labelColor=222&color=CD6799&label=%20&message=Sass&logo=Sass)
+![BEM](https://img.shields.io/static/v1?labelColor=222&color=555454&label=%20&message=BEM&logo=bem)
+![JSON](https://img.shields.io/static/v1?labelColor=222&color=555454&label=%20&message=JSON&logo=JSON)
+![jest](https://img.shields.io/static/v1?labelColor=222&color=9C415D&logoColor=9C415D&label=%20&message=jest&logo=jest)
+![JSDoc](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=JSDoc&logo=JSDoc)
 
-[![Vite](https://img.shields.io/badge/-Vite-333?&logo=vite)](https://github.com/M-Hafez22/dynamic-form-vue)
-[![WebPack](https://img.shields.io/badge/-WebPack-333?&logo=WebPack)](https://webpack.js.org/)
-[![Parcel](https://img.shields.io/badge/-Parcel-333?&logo=Parcel)](https://parceljs.org/)
+[![Vite](https://img.shields.io/static/v1?labelColor=222&color=9F5BFE&label=%20&message=vite&logo=vite)](https://github.com/M-Hafez22/dynamic-form-vue)
+![WebPack](https://img.shields.io/static/v1?labelColor=222&color=93D7F8&label=%20&message=WebPack&logo=WebPack)
+![Parcel](https://img.shields.io/static/v1?labelColor=222&color=F1B97A&label=%20&message=parcel&logo=parcel)
+
 
 Basics of
 ![Python](https://img.shields.io/static/v1?labelColor=222&color=3372A1&label=%20&message=Python&logo=Python)
 ![bash](https://img.shields.io/static/v1?labelColor=222&color=4EAA25&label=%20&message=Bash&logo=gnu-bash)
 
-[![Figma](https://img.shields.io/badge/-Figma-333?&logo=Figma)](https://www.figma.com/)
-[![adobeXD](https://img.shields.io/badge/-adobeXD-333?&logo=adobeXD)](https://www.adobe.com/mena_en/products/xd.html)
-[![PhotoShop](https://img.shields.io/badge/-PhotoShop-333?&logo=AdobePhotoShop)](https://www.adobe.com/products/photoshop.html)
-[![illustrator](https://img.shields.io/badge/-illustrator-333?&logo=Adobeillustrator)](https://www.adobe.com/mena_en/products/illustrator.html)
+![Figma](https://img.shields.io/static/v1?labelColor=222&color=A259FE&label=%20&message=Figma&logo=Figma)
+![adobeXD](https://img.shields.io/static/v1?labelColor=222&color=FF60F6&label=%20&message=adobeXD&logo=adobeXD)
+![PhotoShop](https://img.shields.io/static/v1?labelColor=222&color=30A8FF&label=%20&message=PhotoShop&logo=AdobePhotoShop)
+![illustrator](https://img.shields.io/static/v1?labelColor=222&color=FF7918&label=%20&message=illustrator&logo=Adobeillustrator)
 
 ---
 

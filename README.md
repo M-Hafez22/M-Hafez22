@@ -66,7 +66,7 @@ Basics of
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hafez22&theme=tokyonight&title_color=0797fa&text_color=0094bd&icon_color=00ffff&bg_color=061621&layout=default&hide=html&langs_count=10)](https://github.com/m-hafez22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hafez22&theme=tokyonight&title_color=0797fa&text_color=0094bd&icon_color=00ffff&bg_color=061621&layout=compact&hide=html&langs_count=10)](https://github.com/m-hafez22/github-readme-stats)
 
 ![Mohamed Hafez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-hafez22&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&title_color=0797fa&text_color=c9cacc&icon_color=0094bd&bg_color=061621)
 

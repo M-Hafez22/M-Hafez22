@@ -29,7 +29,6 @@ If you want to build something great you can reach me by
 [![css](https://img.shields.io/badge/-CSS-333?&logo=CSS3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-333?&logo=JavaScript)](https://www.javascript.com/)
 [![MarkDown](https://img.shields.io/badge/-MarkDown-333?&logo=MarkDown)](https://www.markdownguide.org/)
-([![Python](https://img.shields.io/badge/-Python-333?&logo=Python)](https://www.python.org/) Basics)
 
 [![React](https://img.shields.io/badge/-React-20232A?&logo=React)](https://github.com/M-Hafez22/islamic-prayer-times)
 [![Redux](https://img.shields.io/badge/-Redux-20232A?&logo=Redux)](https://github.com/M-Hafez22/To-Do-App)
@@ -51,6 +50,10 @@ If you want to build something great you can reach me by
 [![Vite](https://img.shields.io/badge/-Vite-333?&logo=vite)](https://github.com/M-Hafez22/dynamic-form-vue)
 [![WebPack](https://img.shields.io/badge/-WebPack-333?&logo=WebPack)](https://webpack.js.org/)
 [![Parcel](https://img.shields.io/badge/-Parcel-333?&logo=Parcel)](https://parceljs.org/)
+
+Basics of
+![Python](https://img.shields.io/static/v1?labelColor=222&color=3372A1&label=%20&message=Python&logo=Python)
+![bash](https://img.shields.io/static/v1?labelColor=222&color=4EAA25&label=%20&message=Bash&logo=gnu-bash)
 
 [![Figma](https://img.shields.io/badge/-Figma-333?&logo=Figma)](https://www.figma.com/)
 [![adobeXD](https://img.shields.io/badge/-adobeXD-333?&logo=adobeXD)](https://www.adobe.com/mena_en/products/xd.html)

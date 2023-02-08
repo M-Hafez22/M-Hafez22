@@ -75,10 +75,7 @@ Basics of
 
 ## Software I use to get stuff done
 
-- **OS**: &nbsp;[![ArchLinux](https://img.shields.io/badge/-Arch_Linux-333?&logo=ArchLinux)](https://archlinux.org/)
-- **Browsers**:  &nbsp; [![brave](https://img.shields.io/badge/-Brave-333?&logo=brave)](https://brave.com/) &nbsp; [![firefox](https://img.shields.io/badge/-firefox-333?&logo=firefox)](https://www.mozilla.org/en-US/firefox/new/)
-- **Terminal**: ***ZSH*** with ([Oh My Zsh](https://ohmyz.sh/), [PowerLevel10k](https://github.com/romkatv/powerlevel10k)), ***Bash*** with ([OhMyBash](https://github.com/ohmybash/oh-my-bash))
-- **Code Editor**: ![VSCode](https://img.shields.io/badge/-VSCode-333?&logo=VisualStudioCode)&nbsp; ![Sublime_Text3](https://img.shields.io/badge/-Sublime_Text3-333?&logo=Sublime-Text)
+[![VoidLinux](https://img.shields.io/badge/-Void_Linux-333?&logo=VoidLinux&style=for-the-badge)](https://Voidlinux.org/) &nbsp; [![Google Chrome](https://img.shields.io/badge/-Google_Chrome-333?&logo=google-chrome&style=for-the-badge)](https://brave.com/) &nbsp; [![firefox](https://img.shields.io/badge/-firefox-333?&logo=firefox&style=for-the-badge)](https://www.mozilla.org/en-US/firefox/new/) &nbsp; ![VSCode](https://img.shields.io/badge/-VSCode-333?&logo=VisualStudioCode&style=for-the-badge) &nbsp; ![Sublime_Text3](https://img.shields.io/badge/-Sublime_Text3-333?&logo=Sublime-Text&style=for-the-badge)  &nbsp; ![Bash](https://img.shields.io/badge/-Bash-333?&logo=gnu-bash&style=for-the-badge)  &nbsp; [![ZSH](https://img.shields.io/badge/-ZSH-333?&logo=zsh-gnu&style=for-the-badge)](https://github.com/romkatv/powerlevel10k)
 
 <!-- OSs I love:
 [![Debian](https://img.shields.io/badge/-Debian-333?&logo=Debian&logoColor=red)](https://www.debian.org/)

@@ -52,7 +52,6 @@ If you want to build something great you can reach me by
 ![WebPack](https://img.shields.io/static/v1?labelColor=222&color=93D7F8&label=%20&message=WebPack&logo=WebPack)
 ![Parcel](https://img.shields.io/static/v1?labelColor=222&color=F1B97A&label=%20&message=parcel&logo=parcel)
 
-
 Basics of
 ![Python](https://img.shields.io/static/v1?labelColor=222&color=3372A1&label=%20&message=Python&logo=Python)
 ![bash](https://img.shields.io/static/v1?labelColor=222&color=4EAA25&label=%20&message=Bash&logo=gnu-bash)

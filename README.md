@@ -80,6 +80,11 @@ Basics of
 
 [![VoidLinux](https://img.shields.io/badge/-Void_Linux-333?&logo=VoidLinux&style=for-the-badge)](https://Voidlinux.org/) &nbsp; [![Google Chrome](https://img.shields.io/badge/-Google_Chrome-333?&logo=google-chrome&style=for-the-badge)](https://brave.com/) &nbsp; [![firefox](https://img.shields.io/badge/-firefox-333?&logo=firefox&style=for-the-badge)](https://www.mozilla.org/en-US/firefox/new/) &nbsp; ![VSCode](https://img.shields.io/badge/-VSCode-333?&logo=VisualStudioCode&style=for-the-badge) &nbsp; ![Sublime_Text3](https://img.shields.io/badge/-Sublime_Text3-333?&logo=Sublime-Text&style=for-the-badge)  &nbsp; ![Bash](https://img.shields.io/badge/-Bash-333?&logo=gnu-bash&style=for-the-badge)  &nbsp; [![ZSH](https://img.shields.io/badge/-ZSH-333?&logo=zsh-gnu&style=for-the-badge)](https://github.com/romkatv/powerlevel10k)
 
+## Certification
+
+[![responsive_web_design](https://img.shields.io/badge/-responsive_web_design-02632c?&logo=FreeCodeCamp&logoColor=001b36&style=for-the-badge)](https://www.freecodecamp.org/certification/fcc9389fd5d-e595-4d28-97ad-f06112465d89/responsive-web-design)
+[![CS50x](https://img.shields.io/badge/-CS50x-02632c?&logo=edx&logoColor=001b36&style=for-the-badge)](https://certificates.cs50.io/ba4dc109-c323-45ff-87c7-9dba25972663.pdf?size=letter)
+
 <!-- OSs I love:
 [![Debian](https://img.shields.io/badge/-Debian-333?&logo=Debian&logoColor=red)](https://www.debian.org/)
 [![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-333?&logo=OpenSUSE)](https://www.opensuse.org/)

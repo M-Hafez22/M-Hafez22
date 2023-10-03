@@ -57,6 +57,7 @@ If you want to build something great you can reach me by
 
 Basics of
 ![Python](https://img.shields.io/static/v1?labelColor=222&color=3372A1&label=%20&message=Python&logo=Python)
+![C#](https://img.shields.io/static/v1?labelColor=222&color=3372A1&label=%20&message=C-Sharp&logo=C-sharp)
 ![bash](https://img.shields.io/static/v1?labelColor=222&color=4EAA25&label=%20&message=Bash&logo=gnu-bash)
 
 ![Figma](https://img.shields.io/static/v1?labelColor=222&color=A259FE&label=%20&message=Figma&logo=Figma)
@@ -84,7 +85,7 @@ Basics of
 
 [![responsive_web_design](https://img.shields.io/badge/-responsive_web_design-02632c?&logo=FreeCodeCamp&logoColor=001b36&style=for-the-badge)](https://www.freecodecamp.org/certification/fcc9389fd5d-e595-4d28-97ad-f06112465d89/responsive-web-design)
 [![CS50x](https://img.shields.io/badge/-CS50x-02632c?&logo=edx&logoColor=001b36&style=for-the-badge)](https://certificates.cs50.io/ba4dc109-c323-45ff-87c7-9dba25972663.pdf?size=letter)
-
+[![Foundational_C#_with_Microsoft](https://img.shields.io/badge/-Foundational_C_Sharp_with_Microsoft-02632c?&logo=microsoft&logoColor=001b36&style=for-the-badge)](https://www.freecodecamp.org/certification/fcc9389fd5d-e595-4d28-97ad-f06112465d89/foundational-c-sharp-with-microsoft)
 <!-- OSs I love:
 [![Debian](https://img.shields.io/badge/-Debian-333?&logo=Debian&logoColor=red)](https://www.debian.org/)
 [![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-333?&logo=OpenSUSE)](https://www.opensuse.org/)

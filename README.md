@@ -40,9 +40,9 @@ If you want to build something great you can reach me by
 [![React Testing Library](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=Testing-Library&logo=Testing-Library)](https://github.com/M-Hafez22?tab=repositories&q=react-testing-library&type=&language=&sort=stargazers)
 [![React-query](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-query&logo=React-query)](https://github.com/M-Hafez22?tab=repositories&q=react-query&type=&language=&sort=stargazers)
 
-![Vue](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=vue&logo=vue.js)
+[![Vue](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=vue&logo=vue.js)](https://github.com/M-Hafez22?tab=repositories&q=vue&type=&language=&sort=)
 [![Vuex](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=Vuex&logo=Vue.js)](https://github.com/M-Hafez22/islamic-prayer-times-vue)
-[![Pinia](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=pinia&logo=vue.js)](https://github.com/M-Hafez22/dynamic-form-vue)
+[![Pinia](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=pinia&logo=vue.js)](https://github.com/M-Hafez22?tab=repositories&q=pinia&type=&language=&sort=)
 
 [![Docker](https://img.shields.io/static/v1?labelColor=222&color=2599EE&label=%20&message=Docker&logo=Docker)](https://hub.docker.com/u/mohamedhafez)
 ![Sass](https://img.shields.io/static/v1?labelColor=222&color=CD6799&label=%20&message=Sass&logo=Sass)

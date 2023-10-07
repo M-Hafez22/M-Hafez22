@@ -45,20 +45,21 @@ If you want to build something great you can reach me by
 [![Pinia](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=pinia&logo=vue.js)](https://github.com/M-Hafez22?tab=repositories&q=pinia&type=&language=&sort=)
 
 [![Docker](https://img.shields.io/static/v1?labelColor=222&color=2599EE&label=%20&message=Docker&logo=Docker)](https://hub.docker.com/u/mohamedhafez)
-![Sass](https://img.shields.io/static/v1?labelColor=222&color=CD6799&label=%20&message=Sass&logo=Sass)
+[![Sass](https://img.shields.io/static/v1?labelColor=222&color=CD6799&label=%20&message=Sass&logo=Sass)](https://github.com/M-Hafez22?tab=repositories&q=sass)
 ![BEM](https://img.shields.io/static/v1?labelColor=222&color=555454&label=%20&message=BEM&logo=bem)
 ![JSON](https://img.shields.io/static/v1?labelColor=222&color=555454&label=%20&message=JSON&logo=JSON)
-![jest](https://img.shields.io/static/v1?labelColor=222&color=9C415D&logoColor=9C415D&label=%20&message=jest&logo=jest)
+[![jest](https://img.shields.io/static/v1?labelColor=222&color=9C415D&logoColor=9C415D&label=%20&message=jest&logo=jest)](https://github.com/M-Hafez22?tab=repositories&q=jest)
 ![JSDoc](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=JSDoc&logo=JSDoc)
 
-[![Vite](https://img.shields.io/static/v1?labelColor=222&color=9F5BFE&label=%20&message=vite&logo=vite)](https://github.com/M-Hafez22/dynamic-form-vue)
+[![Vite](https://img.shields.io/static/v1?labelColor=222&color=9F5BFE&label=%20&message=vite&logo=vite)](https://github.com/M-Hafez22?tab=repositories&q=vite)
 ![WebPack](https://img.shields.io/static/v1?labelColor=222&color=93D7F8&label=%20&message=WebPack&logo=WebPack)
-![Parcel](https://img.shields.io/static/v1?labelColor=222&color=F1B97A&label=%20&message=parcel&logo=parcel)
+[![Parcel](https://img.shields.io/static/v1?labelColor=222&color=F1B97A&label=%20&message=parcel&logo=parcel)](https://github.com/M-Hafez22?tab=repositories&q=parcel-bundler)
 
 Basics of
-![Python](https://img.shields.io/static/v1?labelColor=222&color=3372A1&label=%20&message=Python&logo=Python)
-![C#](https://img.shields.io/static/v1?labelColor=222&color=3372A1&label=%20&message=C-Sharp&logo=C-sharp)
-![bash](https://img.shields.io/static/v1?labelColor=222&color=4EAA25&label=%20&message=Bash&logo=gnu-bash)
+[![Python](https://img.shields.io/static/v1?style=for-the-badge&labelColor=222&color=3372A1&label=%20&message=Python&logo=Python)](https://github.com/M-Hafez22?tab=repositories&language=python)
+[![C#](https://img.shields.io/static/v1?style=for-the-badge&labelColor=222&color=3372A1&label=%20&message=C-Sharp&logo=C-sharp)](https://www.freecodecamp.org/certification/fcc9389fd5d-e595-4d28-97ad-f06112465d89/foundational-c-sharp-with-microsoft)
+[![bash](https://img.shields.io/static/v1?style=for-the-badge&labelColor=222&color=4EAA25&label=%20&message=Bash&logo=gnu-bash)](https://github.com/M-Hafez22?tab=repositories&language=shell)
+[![Linux](https://img.shields.io/static/v1?style=for-the-badge&labelColor=111&color=4EAA25&label=&message=Linux-System&logoColor=fff&logo=linux)](https://github.com/M-Hafez22?tab=repositories&language=shell)
 
 ![Figma](https://img.shields.io/static/v1?labelColor=222&color=A259FE&label=%20&message=Figma&logo=Figma)
 ![adobeXD](https://img.shields.io/static/v1?labelColor=222&color=FF60F6&label=%20&message=adobeXD&logo=adobeXD)

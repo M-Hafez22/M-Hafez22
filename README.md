@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Developer who loves to face challenges and solving problems with JavaScript.
+I'm a Developer who loves to face challenges and solve problems with JavaScript, Python, Bash, and any suitable tech the help solve it.
 If you want to build something great you can reach me by
 
 [![Gmail](https://img.shields.io/badge/-mohamedhafezmansour@gmail.com-c14438?style=social&logo=Gmail)](mailto:mohamedhafezmansour@gmail.com)

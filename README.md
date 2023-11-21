@@ -74,7 +74,9 @@ Basics of
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hafez22&theme=tokyonight&title_color=0797fa&text_color=0094bd&icon_color=00ffff&bg_color=061621&layout=compact&langs_count=200)](https://github.com/m-hafez22/github-readme-stats)
 
-![Mohamed Hafez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-hafez22&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&title_color=0797fa&text_color=c9cacc&icon_color=0094bd&bg_color=061621)
+<!-- ![Mohamed Hafez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-hafez22&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&title_color=0797fa&text_color=c9cacc&icon_color=0094bd&bg_color=061621) -->
+
+[![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/m-hafez22?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 

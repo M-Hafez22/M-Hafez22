@@ -34,6 +34,8 @@ If you want to build something great you can reach me by
 [![MarkDown](https://img.shields.io/static/v1?labelColor=222&color=445A64&label=%20&message=MarkDown&logo=MarkDown)](https://github.com/M-Hafez22?tab=repositories&q=markdown&type=&language=)
 
 [![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=222&color=1182c3&label=%20)](https://github.com/M-Hafez22?tab=repositories&q=react&type=&language=&sort=stargazers)
+![NextJS](https://img.shields.io/static/v1?message=NextJS&logo=next.js&labelColor=222&color=1182c3&label=%20)
+![React-Native](https://img.shields.io/static/v1?message=React-Native&logo=react&labelColor=222&color=1182c3&label=%20)
 [![Redux](https://img.shields.io/static/v1?message=Redux&labelColor=222&color=1182c3&label=%20&logo=Redux)](https://github.com/M-Hafez22?tab=repositories&q=redux&type=public)
 [![React Router](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-Router&logo=ReactRouter)](https://github.com/M-Hafez22?tab=repositories&q=react-router&type=&language=&sort=stargazers)
 [![React_Hooks](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-Hooks&logo=React)](https://github.com/M-Hafez22?tab=repositories&q=react&type=&language=&sort=stargazers)

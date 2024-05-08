@@ -11,7 +11,7 @@ If you want to build something great you can reach me by
 [![codepen](https://img.shields.io/badge/-Mohamed_Hafez-111?style=for-the-badge&logoColor=white&logo=codepen)](https://codepen.io/M-Hafez)
 [![Mozilla Add-on](https://img.shields.io/badge/-Mozilla_Add--on-20123A?style=for-the-badge&logoColor=8ff7f7&logo=firefox)](https://addons.mozilla.org/en-US/firefox/user/15251328/)
 [![Docker](https://img.shields.io/badge/-Docker_Profile-2497EC?style=for-the-badge&logoColor=fff&logo=docker)](https://hub.docker.com/u/mohamedhafez)
-[![Resume]([https://img.shields.io/badge/-Resume-333?style=for-the-badge&logoColor=fff)](https://github.com/M-Hafez22/mohamed_hafez_resume/raw/master/mohamed_hafez_resume.pdf](https://github.com/M-Hafez22/mohamed_hafez_resume/raw/master/Front-End-mohamed_hafez-resume.pdf))
+[![Resume](https://img.shields.io/badge/-Resume-333?style=for-the-badge&logoColor=fff)](https://github.com/M-Hafez22/mohamed_hafez_resume/raw/master/Front-End-mohamed_hafez-resume.pdf)
 
 ---
 

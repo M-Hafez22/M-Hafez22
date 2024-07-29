@@ -16,9 +16,9 @@ If you want to build something great you can reach me by
 ---
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
+<!-- 
 - 👨🏻‍💻 &nbsp; My Front End projects are on  [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)](https://github.com/M-Hafez22?tab=repositories)
-- My Linux tools are on  [![GitLab](https://img.shields.io/badge/-GitLab-330F63?&logo=GitLab)](https://gitlab.com/M-Hafez22)
+- My Linux tools are on  [![GitLab](https://img.shields.io/badge/-GitLab-330F63?&logo=GitLab)](https://gitlab.com/M-Hafez22) -->
 - 💬 &nbsp; Ask me about anything about [![Linux](https://img.shields.io/badge/-Linux-111?&logo=Linux&logoColor=fff)](https://distrowatch.com/dwres.php?resource=popularity) Distros, I am happy to help.
 - **Resume [Link](https://github.com/M-Hafez22/mohamed_hafez_resume/raw/master/Front-End-mohamed_hafez-resume.pdf)**. *Every skill in the resume is linked with projects*.
 <!-- - CSS on  [![CodePen](https://img.shields.io/badge/-CodePen-222?&logo=CodePen)](https://codepen.io/M-Hafez) -->
@@ -46,13 +46,18 @@ If you want to build something great you can reach me by
 [![Vuex](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=Vuex&logo=Vue.js)](https://github.com/M-Hafez22/islamic-prayer-times-vue)
 [![Pinia](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=pinia&logo=vue.js)](https://github.com/M-Hafez22?tab=repositories&q=pinia&type=&language=&sort=)
 
-[![Docker](https://img.shields.io/static/v1?labelColor=222&color=2599EE&label=%20&message=Docker&logo=Docker)](https://hub.docker.com/u/mohamedhafez)
 [![Sass](https://img.shields.io/static/v1?labelColor=222&color=CD6799&label=%20&message=Sass&logo=Sass)](https://github.com/M-Hafez22?tab=repositories&q=sass)
+[![Tailwind](https://img.shields.io/static/v1?labelColor=222&color=CD6799&label=%20&message=Tailwind&logo=tailwind)](https://github.com/M-Hafez22)
 ![BEM](https://img.shields.io/static/v1?labelColor=222&color=555454&label=%20&message=BEM&logo=bem)
+![WebSocket](https://img.shields.io/static/v1?labelColor=222&color=555454&label=%20&message=WebSocket&logo=WebSocket)
 ![JSON](https://img.shields.io/static/v1?labelColor=222&color=555454&label=%20&message=JSON&logo=JSON)
 [![jest](https://img.shields.io/static/v1?labelColor=222&color=9C415D&logoColor=9C415D&label=%20&message=jest&logo=jest)](https://github.com/M-Hafez22?tab=repositories&q=jest)
 ![JSDoc](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=JSDoc&logo=JSDoc)
+![MapBox](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=MapBox&logo=MapBox)
+![DeckGL](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=DeckGL&logo=DeckGL)
+![GeoJSON](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=GeoJSON&logo=GeoJSON)
 
+[![Docker](https://img.shields.io/static/v1?labelColor=222&color=2599EE&label=%20&message=Docker&logo=Docker)](https://hub.docker.com/u/mohamedhafez)
 [![Vite](https://img.shields.io/static/v1?labelColor=222&color=9F5BFE&label=%20&message=vite&logo=vite)](https://github.com/M-Hafez22?tab=repositories&q=vite)
 ![WebPack](https://img.shields.io/static/v1?labelColor=222&color=93D7F8&label=%20&message=WebPack&logo=WebPack)
 [![Parcel](https://img.shields.io/static/v1?labelColor=222&color=F1B97A&label=%20&message=parcel&logo=parcel)](https://github.com/M-Hafez22?tab=repositories&q=parcel-bundler)
@@ -64,9 +69,6 @@ Basics of
 [![Linux](https://img.shields.io/static/v1?style=for-the-badge&labelColor=111&color=4EAA25&label=&message=Linux-System&logoColor=fff&logo=linux)](https://github.com/M-Hafez22?tab=repositories&language=shell)
 
 ![Figma](https://img.shields.io/static/v1?labelColor=222&color=A259FE&label=%20&message=Figma&logo=Figma)
-![adobeXD](https://img.shields.io/static/v1?labelColor=222&color=FF60F6&label=%20&message=adobeXD&logo=adobeXD)
-![PhotoShop](https://img.shields.io/static/v1?labelColor=222&color=30A8FF&label=%20&message=PhotoShop&logo=AdobePhotoShop)
-![illustrator](https://img.shields.io/static/v1?labelColor=222&color=FF7918&label=%20&message=illustrator&logo=Adobeillustrator)
 
 ---
 

@@ -14,15 +14,22 @@ If you want to build something great you can reach me by
 [![Resume](https://img.shields.io/badge/-Resume-333?style=for-the-badge&logoColor=fff)](https://github.com/M-Hafez22/mohamed_hafez_resume/raw/master/Front-End-mohamed_hafez-resume.pdf)
 
 ---
+## 👨‍💻 About Me
 
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🧑‍💻 Front-End Developer focused on React, Next.js, TypeScript, and data-rich UIs
+- 📊 Specializing in data visualization (Mapbox, Chart.js, AG-Grid, DeckGL)
+- 🔌 Skilled in integrating REST APIs, WebSockets, and Webhooks
+- 🌍 Linux enthusiast – I love building tools and workflows on Void, Debian, or Fedora
+- 📦 Comfortable working with monorepos, Docker, and CI/CD setups
+- 📫 Reach me: [mohamedhafezmansour@gmail.com](mailto:mohamedhafezmansour@gmail.com)
 <!-- 
+## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+ 
 - 👨🏻‍💻 &nbsp; My Front End projects are on  [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)](https://github.com/M-Hafez22?tab=repositories)
-- My Linux tools are on  [![GitLab](https://img.shields.io/badge/-GitLab-330F63?&logo=GitLab)](https://gitlab.com/M-Hafez22) -->
+- My Linux tools are on  [![GitLab](https://img.shields.io/badge/-GitLab-330F63?&logo=GitLab)](https://gitlab.com/M-Hafez22)
 - 💬 &nbsp; Ask me about anything about [![Linux](https://img.shields.io/badge/-Linux-111?&logo=Linux&logoColor=fff)](https://distrowatch.com/dwres.php?resource=popularity) Distros, I am happy to help.
 - **Resume [Link](https://github.com/M-Hafez22/mohamed_hafez_resume/raw/master/Front-End-mohamed_hafez-resume.pdf)**. *Every skill in the resume is linked with projects*.
-<!-- - CSS on  [![CodePen](https://img.shields.io/badge/-CodePen-222?&logo=CodePen)](https://codepen.io/M-Hafez) -->
-
+- CSS on  [![CodePen](https://img.shields.io/badge/-CodePen-222?&logo=CodePen)](https://codepen.io/M-Hafez) -->
 ---
 
 ## 🛠️ Languages and Tools

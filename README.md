@@ -9,11 +9,10 @@ If you’re building something impactful and looking for someone who blends fron
 [![signal](https://img.shields.io/badge/-+971554696100-3B76F1?style=social&logo=signal)](https://signal.me/#p/+971554696100)
 
 [![gitlab](https://img.shields.io/badge/-Mohamed_Hafez-800080?style=for-the-badge&logo=gitlab)](https://gitlab.com/M-Hafez22)
-<!-- [![codepen](https://img.shields.io/badge/-Mohamed_Hafez-111?style=for-the-badge&logoColor=white&logo=codepen)](https://codepen.io/M-Hafez)  -->
 [![Mozilla Add-on](https://img.shields.io/badge/-Mozilla_Add--on-20123A?style=for-the-badge&logoColor=8ff7f7&logo=firefox)](https://addons.mozilla.org/en-US/firefox/user/15251328/)
 [![Docker](https://img.shields.io/badge/-Docker_Profile-2497EC?style=for-the-badge&logoColor=fff&logo=docker)](https://hub.docker.com/u/mohamedhafez)
 [![Resume](https://img.shields.io/badge/-Resume-333?style=for-the-badge&logoColor=fff)](https://github.com/M-Hafez22/mohamed_hafez_resume/raw/master/Front-End-mohamed_hafez-resume.pdf)
-
+<!-- [![codepen](https://img.shields.io/badge/-Mohamed_Hafez-111?style=for-the-badge&logoColor=white&logo=codepen)](https://codepen.io/M-Hafez)  -->
 ---
 ## 👨‍💻 About Me
 

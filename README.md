@@ -1,14 +1,15 @@
 # Hi there 👋
 
-I'm a developer who enjoys tackling challenges and solving problems with JavaScript, Python, Bash, and any other suitable technology that helps to solve them.
-If you want to build something great you can reach me by
+I'm a **Front-End Developer** with over **4 years** of experience building scalable, data-rich web interfaces using **React**, **Next.js**, and **TypeScript**. I specialize in **data visualization**, **real-time interfaces**, and **admin dashboards** — all crafted with a strong focus on performance and clean UI/UX design.
+
+If you’re building something impactful and looking for someone who blends front-end engineering with thoughtful problem-solving, let’s connect 👇
 
 [![Gmail](https://img.shields.io/badge/-mohamedhafezmansour@gmail.com-c14438?style=social&logo=Gmail)](mailto:mohamedhafezmansour@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Mohamed_Hafez-blue?style=social&logo=Linkedin)](https://www.linkedin.com/in/M-Hafez22/)
 [![signal](https://img.shields.io/badge/-+971554696100-3B76F1?style=social&logo=signal)](https://signal.me/#p/+971554696100)
 
 [![gitlab](https://img.shields.io/badge/-Mohamed_Hafez-800080?style=for-the-badge&logo=gitlab)](https://gitlab.com/M-Hafez22)
-[![codepen](https://img.shields.io/badge/-Mohamed_Hafez-111?style=for-the-badge&logoColor=white&logo=codepen)](https://codepen.io/M-Hafez)
+<!-- [![codepen](https://img.shields.io/badge/-Mohamed_Hafez-111?style=for-the-badge&logoColor=white&logo=codepen)](https://codepen.io/M-Hafez)  -->
 [![Mozilla Add-on](https://img.shields.io/badge/-Mozilla_Add--on-20123A?style=for-the-badge&logoColor=8ff7f7&logo=firefox)](https://addons.mozilla.org/en-US/firefox/user/15251328/)
 [![Docker](https://img.shields.io/badge/-Docker_Profile-2497EC?style=for-the-badge&logoColor=fff&logo=docker)](https://hub.docker.com/u/mohamedhafez)
 [![Resume](https://img.shields.io/badge/-Resume-333?style=for-the-badge&logoColor=fff)](https://github.com/M-Hafez22/mohamed_hafez_resume/raw/master/Front-End-mohamed_hafez-resume.pdf)
